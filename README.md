@@ -3,7 +3,7 @@ My project concerning the Habitual Voter Theorem. Voter data supplied by the [No
 
 -The census folder contains census data matched by zip codes for each ncid (voter).
 
--The voter_data folder contains cleaned .xlsx files (100 total) containing voting information for all voters of North Carolina.
+-The voter_data folder contains cleaned .xlsx files (100 total) containing voting information for all registered voters of North Carolina.
 
 -The Interactive Model folder contains a macro-enabled .xlsx file representing the logistic regression output as a user interface (UI). instructions on using the UI can be found in Appendix B of the corresponding paper [here](https://rtwrtw8.github.io/papers/Modeling%20Voter%20Turnout.pdf).
 
